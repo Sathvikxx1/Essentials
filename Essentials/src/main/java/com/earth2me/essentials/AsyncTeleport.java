@@ -5,7 +5,7 @@ import com.earth2me.essentials.commands.WarpNotFoundException;
 import com.earth2me.essentials.utils.DateUtil;
 import com.earth2me.essentials.utils.LocationUtil;
 import io.canvasmc.canvas.event.PlayerRespawnAsyncEvent;
-import io.papermc.lib.PaperLib;
+import io.github.rvskele.paperlib.PaperLib;
 import net.ess3.api.IEssentials;
 import net.ess3.api.IUser;
 import net.ess3.api.TranslatableException;
